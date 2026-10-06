@@ -5,7 +5,7 @@ Reception invitation. 15 November 2026, 3.30 PM, MomentZ, Bicholim, Goa.
 The haldi and the wedding ceremony are commented out in index.html
 rather than deleted -- remove the wrappers to bring them back.
 
-**Live:** https://nezuko-sal.github.io/REPO-NAME/
+**Live:** https://nezuko-sal.github.io/laukika-invite/
 
 A single static page — no build step, no framework, no dependencies.
 Everything is served from this repo; the only outbound request is the
